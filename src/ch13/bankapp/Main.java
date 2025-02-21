@@ -1,7 +1,7 @@
-package ch12.bankapp;
+package ch13.bankapp;
 
-import ch12.bankapp.model.JointAccount;
-import ch12.bankapp.model.OverDraftAccount;
+import ch13.bankapp.model.JointAccount;
+import ch13.bankapp.model.OverDraftAccount;
 
 public class Main {
 

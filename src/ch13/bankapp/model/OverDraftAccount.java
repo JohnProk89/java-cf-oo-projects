@@ -1,4 +1,4 @@
-package ch12.bankapp.model;
+package ch13.bankapp.model;
 
 /**
  * Class representing a bank account which permits withdrawing more money than the current balance
