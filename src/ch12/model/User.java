@@ -1,5 +1,8 @@
 package ch12.model;
 
+/**
+ * Class representing a User entity
+ */
 public class User {
     private Long id;
     private String firstname;

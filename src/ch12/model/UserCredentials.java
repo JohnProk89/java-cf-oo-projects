@@ -1,5 +1,8 @@
 package ch12.model;
 
+/**
+ * Class representing the user's credentials
+ */
 public class UserCredentials {
     private Long id;
     private String username;
