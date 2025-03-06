@@ -1,4 +1,4 @@
-package ch13.bankapp.model;
+package ch13;
 
 /**
  * Class representing a three-dimensional point

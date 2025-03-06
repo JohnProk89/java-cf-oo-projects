@@ -1,7 +1,5 @@
 package ch13;
 
-import ch13.bankapp.model.PointXYZ;
-
 public class PointXYZMain {
 
     public static void main(String[] args) {
