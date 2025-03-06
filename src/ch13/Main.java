@@ -1,4 +1,4 @@
-package ch13.bankapp;
+package ch13;
 
 import ch13.bankapp.model.JointAccount;
 import ch13.bankapp.model.OverDraftAccount;

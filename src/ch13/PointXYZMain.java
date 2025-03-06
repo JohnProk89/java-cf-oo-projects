@@ -1,6 +1,6 @@
-package ch12;
+package ch13;
 
-import ch12.model.PointXYZ;
+import ch13.bankapp.model.PointXYZ;
 
 public class PointXYZMain {
 
