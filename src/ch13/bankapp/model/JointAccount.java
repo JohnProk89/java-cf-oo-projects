@@ -86,7 +86,7 @@ public class JointAccount {
     }
 
     public String getSsn2() {
-        return ssn1;
+        return ssn2;
     }
 
     public void setSsn2(String ssn2) {
