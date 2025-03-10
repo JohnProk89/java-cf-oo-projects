@@ -1,4 +1,4 @@
-package ch12.model;
+package ch12oopintro.model;
 
 /**
  * Class representing the user's credentials

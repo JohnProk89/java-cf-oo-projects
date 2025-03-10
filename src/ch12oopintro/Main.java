@@ -1,7 +1,7 @@
-package ch12;
+package ch12oopintro;
 
-import ch12.model.User;
-import ch12.model.UserCredentials;
+import ch12oopintro.model.User;
+import ch12oopintro.model.UserCredentials;
 
 public class Main {
 
