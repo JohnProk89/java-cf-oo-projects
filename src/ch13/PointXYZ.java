@@ -45,24 +45,44 @@ public class PointXYZ {
         return "(" + x + ", " + y + ", " + z + ")";
     }
 
+    /**
+     * Calculates the distance in the XY plane
+     * @param point the point to which distance is calculated
+     * @return the distance
+     */
     public double getXYDistance(PointXYZ point){
         int dx = this.getX() - point.getX();
         int dy = this.getY() - point.getY();
         return Math.sqrt(Math.pow(dx,2) + Math.pow(dy,2));
     }
 
+    /**
+     * Calculates the distance in the YZ plane
+     * @param point the point to which distance is calculated
+     * @return the distance
+     */
     public double getYZDistance(PointXYZ point){
         int dy = this.getY() - point.getY();
         int dz = this.getZ() - point.getZ();
         return Math.sqrt(Math.pow(dy,2) + Math.pow(dz,2));
     }
 
+    /**
+     * Calculates the distance in the XZ plane
+     * @param point the point to which distance is calculated
+     * @return the distance
+     */
     public double getXZDistance(PointXYZ point){
         int dx = this.getX() - point.getX();
         int dz = this.getZ() - point.getZ();
         return Math.sqrt(Math.pow(dx,2) + Math.pow(dz,2));
     }
 
+    /**
+     * Calculates the distance in the XYZ space
+     * @param point the point to which distance is calculated
+     * @return the distance
+     */
     public double getXYZDistance(PointXYZ point){
         int dx = this.getX() - point.getX();
         int dy = this.getY() - point.getY();
