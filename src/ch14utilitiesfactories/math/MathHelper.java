@@ -1,4 +1,4 @@
-package ch14.math;
+package ch14utilitiesfactories.math;
 
 /**
  * Utility class on arrays
