@@ -1,2 +1,4 @@
-package ch14;public class QueueManager {
+package ch14;
+
+public class QueueManager {
 }

@@ -1,2 +1,4 @@
-package ch14;public class ValidationUtils {
+package ch14;
+
+public class ValidationUtils {
 }

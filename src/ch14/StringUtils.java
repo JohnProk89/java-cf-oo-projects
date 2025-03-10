@@ -1,2 +1,4 @@
-package ch14;public class StringUtils {
+package ch14;
+
+public class StringUtils {
 }

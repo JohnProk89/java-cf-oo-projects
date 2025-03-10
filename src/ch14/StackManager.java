@@ -1,2 +1,4 @@
-package ch14;public class StackManager {
+package ch14;
+
+public class StackManager {
 }

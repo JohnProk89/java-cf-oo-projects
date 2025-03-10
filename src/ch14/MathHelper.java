@@ -1,2 +1,4 @@
-package ch14;public class MathHelper {
+package ch14;
+
+public class MathHelper {
 }
