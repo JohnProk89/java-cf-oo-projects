@@ -1,4 +1,4 @@
-package ch13;
+package ch13apis;
 
 /**
  * Class representing a three-dimensional point

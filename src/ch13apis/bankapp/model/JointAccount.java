@@ -1,4 +1,4 @@
-package ch13.bankapp.model;
+package ch13apis.bankapp.model;
 
 /**
  * Class representing a joint bank account
