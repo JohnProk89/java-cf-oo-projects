@@ -5,6 +5,8 @@ package ch14utilitiesfactories.string;
  */
 public class StringUtils {
 
+    private StringUtils(){}
+
     /**
      * Reverses a string
      * @param str the input string
@@ -12,7 +14,7 @@ public class StringUtils {
      */
     public static String reverse(String str) {
         StringBuilder sb = new StringBuilder();
-        String reversed = "";
+        String reversed;
         for (int i = str.length() - 1; i >= 0; i--) {
             sb.append(str.charAt(i));
         }
@@ -32,7 +34,7 @@ public class StringUtils {
     /**
      * Checks if a string is palindrome
      * @param str the input string
-     * @return true if is palindrome
+     * @return true if the string is a palindrome
      */
     public static boolean isPalindrome(String str) {
         return str.equals(reverse(str));

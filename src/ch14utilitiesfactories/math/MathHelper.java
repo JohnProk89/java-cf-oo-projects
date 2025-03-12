@@ -5,6 +5,8 @@ package ch14utilitiesfactories.math;
  */
 public class MathHelper {
 
+    private MathHelper() {}
+
     /**
      * Gets the max value of an array
      * @param array the input array

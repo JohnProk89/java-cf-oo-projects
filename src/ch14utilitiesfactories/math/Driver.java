@@ -8,6 +8,6 @@ public class Driver {
         int min = MathHelper.getMinArrayValue(array);
         double avg = MathHelper.getAverage(array);
 
-        System.out.printf("Tha array's max value is %d and tha min value is %d and the average is %.2f\n", max, min, avg);
+        System.out.printf("Tha array's max value is %d and the min value is %d and the average is %.2f\n", max, min, avg);
     }
 }

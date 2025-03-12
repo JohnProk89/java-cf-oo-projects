@@ -3,7 +3,7 @@ package ch14utilitiesfactories.validation;
 public class Driver {
 
     public static void main(String[] args) {
-        String strGood = "I am good";
+        String strGood = " ";
         String strBad = "I am way out of limits bro, or maybe now I am indeed";
         int numGood = 9;
         int numBad = -4;

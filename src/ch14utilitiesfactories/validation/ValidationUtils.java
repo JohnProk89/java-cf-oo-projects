@@ -6,7 +6,7 @@ package ch14utilitiesfactories.validation;
 public class ValidationUtils {
 
     /**
-     * Checks if a string has valid length
+     * Checks if a string's length is between 1 and 31 characters
      * @param str the input string
      * @return true if string in limits
      */
@@ -15,7 +15,7 @@ public class ValidationUtils {
     }
 
     /**
-     * Checks if a number is in limits
+     * Checks if a number is between 1 and 10
      * @param num the input number
      * @return true if number in limits
      */
